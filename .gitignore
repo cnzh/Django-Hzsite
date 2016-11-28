@@ -1,0 +1,5 @@
+hzblog/__pycache__/*
+hzblog/migrations/*
+hzsite/__pycache__/*
+hzsite/migrations/*
+hzsite/settings.py

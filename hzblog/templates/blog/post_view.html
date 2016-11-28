@@ -1,0 +1,15 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+    <div class="date">
+    {% if post.published_date %}
+        {{ post.published_date }}
+    {% else %}
+        <a class="btn btn-default" href="{% url 'hzblog:post_publish' pk=post.pk %}">Publish</a>
+    {% endif %}
+        <a class="btn btn-default" href="{% url 'hzblog:post_edit' pk=post.pk %}"><span class="glyphicon glyphicon-pencil"></span></a>
+        <a class="btn btn-default" href="{% url 'hzblog:post_delete' pk=post.pk %}"><span class="glyphicon glyphicon-remove"></span></a>
+    </div>
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.text|linebreaks }}</p>
+{% endblock %}
