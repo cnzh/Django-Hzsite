@@ -4,12 +4,12 @@
 
 ## 目录
 
-* [Django博客系统开发01 – 环境搭建、创建项目](https://www.zivers.com/post/1308.html)
-* [Django博客系统开发02 – 模型Model](https://www.zivers.com/post/1318.html)
-* [Django博客系统开发03 – 路由Django URL](https://www.zivers.com/post/1331.html)
-* [Django博客系统开发04 – 前端改造](https://www.zivers.com/post/1337.html)
-* [Django博客系统开发05 – 文章的增删改发布](https://www.zivers.com/post/1346.html)
-* [Django博客系统开发06 – 用户登录](https://www.zivers.com/post/1356.html)
+* [Django博客系统开发01 – 环境搭建、创建项目](http://blog.zivers.com/post/1308.html)
+* [Django博客系统开发02 – 模型Model](http://blog.zivers.com/post/1318.html)
+* [Django博客系统开发03 – 路由Django URL](http://blog.zivers.com/post/1331.html)
+* [Django博客系统开发04 – 前端改造](http://blog.zivers.com/post/1337.html)
+* [Django博客系统开发05 – 文章的增删改发布](http://blog.zivers.com/post/1346.html)
+* [Django博客系统开发06 – 用户登录](http://blog.zivers.com/post/1356.html)
 * ...
 
 ## 目标
